@@ -2,6 +2,6 @@ spring:
   boot:
     admin:
       client:
-        url: http://54.179.175.203:9090
+        url: http://localhost:9090
   application:
     name: admin-client-app
