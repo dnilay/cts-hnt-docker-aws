@@ -1,0 +1,7 @@
+spring:
+  boot:
+    admin:
+      client:
+        url: https://54.179.175.203:9090
+  application:
+    name: admin-client-app
